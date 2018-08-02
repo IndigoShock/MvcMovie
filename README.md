@@ -3,10 +3,10 @@ One-liner: This is an MVC Movie app made in .NET Version 4.6.1. This is a lab as
 
 #Visuals
 This is the Home page.
-![Home](asset/MovieHomePage.jpg)
+![Home](asset/MovieHomePage.JPG)
 
 This is the Create page. 
-![Create](asset/MovieCreate.jpg)
+![Create](asset/MovieCreate.JPG)
 
 #Step by Step Directions
 1. Upon opening the app, the user will be shown the home screen which will have all the movies in the database.
